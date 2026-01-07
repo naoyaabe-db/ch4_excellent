@@ -1,4 +1,3 @@
-# ワークフロー
 name: Test
 on:
   pull_request:                        # プルリクエストが作成されたら起動
