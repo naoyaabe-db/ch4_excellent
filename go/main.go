@@ -1,3 +1,4 @@
+// プルリク用のコメント追加
 package main
 
 func EvenOrOdd(number int) string {
